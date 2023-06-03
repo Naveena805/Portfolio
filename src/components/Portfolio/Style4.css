@@ -1,0 +1,106 @@
+/* .main{
+   height:100%;
+    width: 100%;
+   
+   background-image: url('C:\Users\LG\Desktop\React\my-app\public\im8.jpg');
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+
+}
+
+
+
+.im{
+    height: 300px;
+    color: black;
+
+} */
+.sidenav a {
+    float: left;
+   
+        padding-top:40px; 
+   position: absolute;
+  
+     text-decoration: none;
+     margin-top: 100px;
+     margin-left: 80px;
+     font-size: 20px;
+     font-style: italic;
+   
+    color:white;
+  
+  }
+/* .sidenav{
+    margin-top: 100px;
+    
+    height: 500px;
+    width: 20%;
+    position: absolute;
+} */
+.one{
+    margin-top: -9%; 
+    height: 800px;
+    width: 100%;
+    background-image: url('C:\Users\LG\Desktop\React\my-app\public\im3.jpg');
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+position: relative;
+}
+
+.nav1{
+    height: 50px;
+   
+}
+
+h5{
+    font-size: LARGE;
+    font-style: oblique;
+    margin-left: 80px;
+    color: black;
+}
+.three{
+margin-top: -5px;
+    height: 1000px;
+    width: 100%;
+    background-image: url('C:\Users\LG\Desktop\React\my-app\public\im4.jpg');
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+
+}
+.exp{
+   margin-top:-30%;
+        height: 1000px;
+        width: 100%;
+        background-image: url('C:\Users\LG\Desktop\React\my-app\public\img5.jpg');
+        background-size: 100% 75%;
+        background-repeat: no-repeat;
+    
+    }
+    .pro{
+        margin-top:-30%;
+             height: 800px;
+             width: 100%;
+             background-image: url('C:\Users\LG\Desktop\React\my-app\public\star.jpg');
+             background-size: 100% 75%;
+             background-repeat: no-repeat;
+         
+         }
+    
+         .sub{
+   
+            width: 22rem;
+            height:15rem;
+           margin-top: -200px; 
+          
+           
+        
+        }
+        .sub1{
+        margin-left: -125px;
+            width: 22rem;
+            height: 6rem;
+          
+        }
+        .sub1 h5{
+            color:white;
+        }
