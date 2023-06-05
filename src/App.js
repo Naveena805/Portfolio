@@ -4,7 +4,7 @@ import Portfolionew from './components/Portfolio/Portfolionew'
 const App = () => {
   return (
     <div>
-      <Portfolionew/>
+   <Portfolionew/>
     </div>
   )
 }
