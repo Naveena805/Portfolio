@@ -1,10 +1,14 @@
 import React from 'react'
-import Portfolionew from './components/Portfolio2/Portfolionew'
 
+import Main from './components/pages/Main'
+import { Provider } from 'react-redux'
+import store from './components/pages/store'
 const App = () => {
   return (
     <div>
-   <Portfolionew/>
+       <Provider store={store}>
+    <Main/>
+   </Provider>
     </div>
   )
 }
