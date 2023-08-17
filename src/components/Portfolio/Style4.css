@@ -1,0 +1,135 @@
+/* .main{
+   height:100%;
+    width: 100%;
+   
+   background-image: url('C:\Users\LG\Desktop\React\my-app\public\im8.jpg');
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+
+}
+
+
+
+.im{
+    height: 300px;
+    color: black;
+
+} */
+.sidenav a {
+    float: left;
+   
+        padding-top:40px; 
+   position: absolute;
+  
+     text-decoration: none;
+     margin-top: -5px;
+     /* margin-left: 80px; */
+     font-size: 20px;
+     font-style: italic;
+   
+    color:black;
+  
+  }
+  .navbar{
+padding-left: 0%;
+height:50px
+  }
+  
+  .nav-item{
+    /* margin-top: -10%; */
+    padding-left: 20px;
+    font-size: large;
+    
+   
+    
+  }
+ 
+.sidenav{
+    margin-top: -5px;
+    
+    height: 50px;
+    width:100%;
+    position: absolute;
+}
+.one{
+    padding-top: 0%;
+ background-color:black;
+      background-size: 100% 100%;
+    background-repeat: no-repeat;
+position: relative;
+}
+.subbody{
+    height: 700px;
+    width: 100%;
+    background-image: url('./assets/video1.mp4');
+
+    background-size: 100% 100%;
+}
+video{
+  margin: 0%;
+  padding: 0%;
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+ 
+}
+.nav1{
+    height: 50px;
+   
+}
+
+h5{
+    font-size: LARGE;
+    font-style: oblique;
+    margin-left: 80px;
+    color: black;
+}
+.three{
+padding-top: 0%;
+    height: 1000px;
+    width: 100%;
+    background-image: url('./assets/4k.jpg');
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+
+}
+.exp{
+   margin-top:-30%;
+        height: 1000px;
+        width: 100%;
+        background-image: url('./assets/4k.jpg');
+        background-size: 100% 75%;
+        background-repeat: no-repeat;
+    
+    }
+    .pro{
+        margin-top:-30%;
+             height: 1000px;
+             width: 100%;
+            
+             background-image: url('./assets/4k.jpg');
+             background-size: 100% 75%;
+             background-repeat: no-repeat;
+         
+         }
+    
+         
+        .main{
+            height:100%;
+            width:100%;
+            background-color: black;
+        }
+        .imdrop{
+            height:30px;
+            width: 30px;
+           padding: 0%;
+        }
+        .two{
+            height: 200px;
+            width:200px;
+           
+            margin-left: 100px;
+            margin-top: 200px;
+        }
